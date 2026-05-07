@@ -13,7 +13,7 @@ nav: updates
     <div class="update-date">May 7, 2026 • Day 19</div>
     <div class="update-mile">Mile: 265.7</div>
     <div class="update-text"> 
-    A beautiful morning and great hike today. The trail was mostly downhill and gradually sloped. With 1 day of food and easy trail hiking I was able to hike the 19 miles to camp by 2pm. Time to catch up on posting updates planning for tomorrow’s resupply in Big Bear.
+    A beautiful morning and great hike today. The trail was mostly downhill and gradually sloped. With 1 day of food and easy trail hiking I was able to hike the 19 miles to camp by 2pm. Time to catch up on posting updates and planning for tomorrow’s resupply in Big Bear.
     </div>
   </div>
 
