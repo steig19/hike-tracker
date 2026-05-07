@@ -10,6 +10,30 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
 
   <div class="update-card">
+    <div class="update-date">May 7, 2026 • Day 19</div>
+    <div class="update-mile">Mile: 265.7</div>
+    <div class="update-text"> 
+    A beautiful morning and great hike today. The trail was mostly downhill and gradually sloped. With 1 day of food and easy trail hiking I was able to hike the 19 miles to camp by 2pm. Time to catch up on posting updates planning for tomorrow’s resupply in Big Bear.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 6, 2026 • Day 18</div>
+    <div class="update-mile">Mile: 247.8</div>
+    <div class="update-text"> 
+    Finished the Mission Creek bit. Fun navigating, but really hard on the feet and legs. Then the trail kept going up and up. Fortunately I was able to get in a short nap before taking on the second half of the hike. Ended up with a sweet site at about 8,600 ft elevation.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 5, 2026 • Day 17</div>
+    <div class="update-mile">Mile: 229.0</div>
+    <div class="update-text"> 
+    On a Mission Creek (or what’s left of it). Fun day of trail finding through a washed out section of the PCT that was flooded two years ago. Found my way through the first five miles. I’ll start tomorrow working through the last three.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">May 4, 2026 • Day 16</div>
     <div class="update-mile">Mile: 209.6</div>
     <div class="update-text"> 
