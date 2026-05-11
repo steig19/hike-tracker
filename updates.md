@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
 
   <div class="update-card">
+    <div class="update-date">May 10, 2026 • Day 22</div>
+    <div class="update-mile">Mile: 314.8</div>
+    <div class="update-text"> 
+    Beautiful morning, but the day warmed quickly hitting 101 degrees by noon. I rolled my right ankle pretty hard around mile 5, which slowed my pace most of the day. I’m hoping it will take only a day or two for a full recovery. I was able to soak my feet and ankle in the river for the lunch break/nap. Which was nice.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">May 8, 2026 • Day 20</div>
+    <div class="update-mile">Mile: 275.0</div>
+    <div class="update-text"> 
+    Busy day in Big Bear getting a bunch of carbs and protein (breakfast and lunch), then buying and packing for the next five days. Caught a hitch back to the trail later than planned so, a short, easy one today.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">May 7, 2026 • Day 19</div>
     <div class="update-mile">Mile: 265.7</div>
     <div class="update-text"> 
