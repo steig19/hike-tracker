@@ -692,7 +692,7 @@
           <div class="pct-chip">
             <div class="label">Total Hiking Distance & Elevation Gain</div>
             <div class="value">${fmtNumber(miles, 1)} mi</div>
-            <div class="secondary"> ⛰ ${fmtInt(elevFt)} ft</div>
+            <div class="sub"> ⛰ ${fmtInt(elevFt)} ft</div>
           </div>
 
           <div class="pct-chip">
