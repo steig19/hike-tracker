@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
 
   <div class="update-card">
+    <div class="update-date">May 14, 2026 • Day 26</div>
+    <div class="update-mile">Mile: 363.4</div>
+    <div class="update-text"> 
+    Wrightwood zero day. First off, I’ve made some updates to the PCT Tracker site. The Statistics section now shows the PCT trail miles I’ve hiked AND the total miles hiked and total elevation. This separates all the extra, side trail and Garmin gps errors from the number of miles on the PCT I’ve actually covered. The Overview - Progess section now shows only the PCT miles I’ve hiked with the correct percentage and remaining values. Also, I’ve switched to Google Photos for my photo album because it is easier to navigate and sort for the viewer. Photos are sorted from oldest to newest, can be swiped left or right, and allow for likes and comments! Clicking the Photos link will take you to a new tab or your Google Photos app. That’s it for today’s updates. I’ll add more photos of the Wrightwood experience by the end of the day.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">May 13, 2026 • Day 25</div>
     <div class="update-mile">Mile: 363.4</div>
     <div class="update-text"> 
