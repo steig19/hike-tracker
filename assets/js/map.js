@@ -725,7 +725,7 @@
     if (!insightsListEl) return;
     if (!stats || !insightsListEl) return;
 
-    const miles = stats.totals.miles;
+    // const miles = stats.totals.miles;
     const pctCompleted = (TOTAL_TRAIL_MI / TRAIL_TOTAL_MI) * 100;
     const remainingMi = Math.max(0, TRAIL_TOTAL_MI - TOTAL_TRAIL_MI);
 
@@ -747,7 +747,7 @@
           <div class="pct-rows">
             <div class="pct-row">
               <span>PCT Completed</span>
-              <b>${fmtNumber(pctCompleted, 1)}% · ${fmtNumber(miles, 1)} mi of ${fmtNumber(TRAIL_TOTAL_MI, 1)}</b>
+              <b>${fmtNumber(pctCompleted, 1)}% · ${fmtNumber(TOTAL_TRAIL_MI, 1)} mi of ${fmtNumber(TRAIL_TOTAL_MI, 1)}</b>
             </div>
             <div class="pct-progressbar">
               <div class="pct-progressfill" style="width:${pctCompleted}%;"></div>
