@@ -723,9 +723,9 @@
     if (!insightsListEl) return;
     if (!stats || !insightsListEl) return;
 
-    const miles = stats.totals.miles;
-    const pctCompleted = (stats.totals.miles / TRAIL_TOTAL_MI) * 100;
-    const remainingMi = Math.max(0, TRAIL_TOTAL_MI - stats.totals.miles);
+    const trailmiles = 363.4;
+    const pctCompleted = (trailmiles / TRAIL_TOTAL_MI) * 100;
+    const remainingMi = Math.max(0, TRAIL_TOTAL_MI - trailmiles);
 
     const first = stats.timeline.firstTs
       ? new Date(stats.timeline.firstTs).toLocaleDateString()
