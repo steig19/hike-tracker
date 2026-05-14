@@ -10,6 +10,30 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
 
   <div class="update-card">
+    <div class="update-date">May 13, 2026 • Day 25</div>
+    <div class="update-mile">Mile: 363.4</div>
+    <div class="update-text"> 
+    Down into Wrightwood. A cool morning for the short climb and descent into town where I’ll spend two days in a Grand Pines Cabin making repairs, getting resupplies, and resting the feet. Check out the latest photo gallery for the extra calories I’ll be pre-loading for Friday’s return to the PCT.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">May 12, 2026 • Day 24</div>
+    <div class="update-mile">Mile: 357.6</div>
+    <div class="update-text"> 
+    Big day. It started with a 6 mile hike to the Cajon Pass McDonalds where I had hoped to get a quarter pounder, but only breakfast was being served. Back on the trail I stopped at a water cache and loaded 4L into my bottles to cover the distance to camp (12 mi) and to Wrightwood the following morning (10 mi). Camp was an additional 3,500 ft above the water cache so it was a heavy haul. Looking forward to some good food and an extra day off in Wrightwood.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">May 11, 2026 • Day 23</div>
+    <div class="update-mile">Mile: 335.7</div>
+    <div class="update-text"> 
+    A beautiful morning and very surprised at how much better the ankle feels. It felt good to be back at my normal pace and enjoying the cool morning on the trail. At about 6 miles in I ran into a special trail angel who trail ran 8 miles to meet me and hike back together to her car filled with a cooler of cold sandwiches, drinks, and ice cream treats. What a fun morning and great day on the trail!
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">May 10, 2026 • Day 22</div>
     <div class="update-mile">Mile: 314.8</div>
     <div class="update-text"> 
