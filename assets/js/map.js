@@ -21,6 +21,8 @@
 
   const TRAIL_TOTAL_MI = 2655.8; // Pacific Crest Trail
   
+  const TOTAL_TRAIL_MI = 363.4; // Current trail miles hiked
+  
   function fmtDate(ts) {
     try { return new Date(ts).toLocaleString(); }
     catch { return "—"; }
@@ -723,9 +725,9 @@
     if (!insightsListEl) return;
     if (!stats || !insightsListEl) return;
 
-    const trailmiles = 363.4;
-    const pctCompleted = (trailmiles / TRAIL_TOTAL_MI) * 100;
-    const remainingMi = Math.max(0, TRAIL_TOTAL_MI - trailmiles);
+    const miles = stats.totals.miles;
+    const pctCompleted = (TOTAL_TRAIL_MILES / TRAIL_TOTAL_MI) * 100;
+    const remainingMi = Math.max(0, TRAIL_TOTAL_MI - TOTAL_TRAIL_MILES);
 
     const first = stats.timeline.firstTs
       ? new Date(stats.timeline.firstTs).toLocaleDateString()
