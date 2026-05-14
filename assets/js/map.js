@@ -681,7 +681,7 @@
       <div class="pct-stats-wrap">
 
         <div class="pct-stat-hero">
-          <div class="label">Total Distance & Elevation Gain</div>
+          <div class="label">Total Hiking Distance & Elevation Gain</div>
           <div class="big">
             <div class="primary">${fmtNumber(miles, 1)} mi</div>
             <div class="secondary"> ⛰ ${fmtInt(elevFt)} ft</div>
@@ -689,6 +689,11 @@
         </div>
 
         <div class="pct-chip-grid">
+        
+          <div class="pct-chip">
+            <div class="label">Pacific Crest Trail Hiked</div>
+            <div class="value">${fmtNumber(TOTAL_TRAIL_MI, 1)} mi</div>
+          </div>
 
           <div class="pct-chip">
             <div class="label">Avg Miles / Trail Day</div>
