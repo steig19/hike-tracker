@@ -10,6 +10,30 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
 
   <div class="update-card">
+    <div class="update-date">May 17, 2026 • Day 29</div>
+    <div class="update-mile">Mile: 420.8</div>
+    <div class="update-text"> 
+    A perfect day on the trail! Cool temps and an afternoon breeze made for great hiking with no washouts or downed tree crossings. There has also been plenty of water from streams and springs helping keep the water weight down. Time to get setup for the night and make dinner.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 16, 2026 • Day 28</div>
+    <div class="update-mile">Mile: 399.5</div>
+    <div class="update-text"> 
+    Woke up to a breezy, chilly morning at 8,500 ft, but warmed up quickly as the sun came up. Today had one super long climb followed by a road-walk/alternate trail detour to protect the endangered yellow-legged frog. A longer hike with higher elevation gain than expected, but the weather was perfect for it. I decided to camp a few miles shorter than planned and will just make those up tomorrow!
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 15, 2026 • Day 27</div>
+    <div class="update-mile">Mile: 379.5</div>
+    <div class="update-text"> 
+    Big climbs today. Walked out of town by 5am up Acorn Street to the Acorn trail and a steep climb up to the PCT. Great morning temps and scenic views from atop the ridge. Finished the day with a switchback heavy ascent of Mt. Baden-Powell. Thankfully only a 1.5 mile hike from the summit to my tent site. 
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">May 14, 2026 • Day 26</div>
     <div class="update-mile">Mile: 363.4</div>
     <div class="update-text"> 
