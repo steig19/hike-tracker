@@ -8,6 +8,46 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
+  
+  <div class="update-card">
+    <div class="update-date">May 23, 2026 • Day 35</div>
+    <div class="update-mile">Mile: 549.7</div>
+    <div class="update-text"> 
+    Up and hiking on 4 hours of sleep after a really interesting night hike. The trail/road followed a paved covering of the aquaduct and was very easy to follow in the dark. That is until the moon set. I only used my headlamp for the last of half hour of the six hour hike. That made today’s hike much more bearable as it was a shorter duration during the heat of the day.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">May 22, 2026 • Day 34</div>
+    <div class="update-mile">Mile: 534.9</div>
+    <div class="update-text"> 
+    Left camp at around 830 knowing I had a two-part hike with a large break in the middle of the day. I arrived at Hikertown around 230p and waited for the shuttle to Neenach Cafe for cold drinks and treats. Back at Hikertown the group was  basically lounging in shade until sunset to continue hiking.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">May 21, 2026 • Day 33</div>
+    <div class="update-mile">Mile: 504.3</div>
+    <div class="update-text"> 
+    Water resupply has been tricky with shrinking stream and spring flows. Today’s hike was mostly flat or rolling trail on a shorter mileage day. Lots of poisonous "poodle dog bush" to watch out for today. I found a campsite early in the afternoon with shade, a picnic table, and flat spot. Great for napping.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">May 20, 2026 • Day 32</div>
+    <div class="update-mile">Mile: 486.5</div>
+    <div class="update-text"> 
+    Today was a post office resupply stop and since I camped short of yesterday’s plan I needed to turn up the pace to make up for the 3 mile difference. I got into Lake Hughes in plenty of time and ended up walking the 2.5 miles to the post office because I couldn’t get a hitch. Overall Lake Hughes was a let down, but I did treat myself to a giant ice cream cookie sandwich and a cold can of Starbucks DoubleShot coffee for all the extra walking needed.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">May 19, 2026 • Day 31</div>
+    <div class="update-mile">Mile: 465.9</div>
+    <div class="update-text"> 
+    One month on the PCT! The highlight of the day were the Agua Dulce Canyon trails and the coffee/pastries in town at the Mercantile. I also found the Serenity’s Oasis hiker hostel to be a great resource for a Mail Drop, showers, laundry, and just hanging out. I only used the mail service, but there was a large group just relaxing in their tents or shaded areas.
+    </div>
+  </div>
 
   <div class="update-card">
     <div class="update-date">May 17, 2026 • Day 29</div>
