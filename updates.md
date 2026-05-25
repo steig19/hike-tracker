@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">May 24, 2026 • Day 36</div>
+    <div class="update-mile">Mile: 558.5</div>
+    <div class="update-text"> 
+    I had a really nice morning hike down the trail toward Tehachapi. Took a little over 2 hours to reach the trailhead where a guy and his Trail Magic vehicle were waiting with cold Gatorades. He then offered us a ride into town. He started in Campo and is spending the summer providing PCT hiker support all the way up to Canada! After the drop off at Walmart I purchased food for the next stretch and while organizing it out front, another guy asked me if I needed a ride somewhere. What a town! On the way to the Holiday Inn Express he offered to take me back to the trail in the morning. Needless to say, I’ll remember this stay in Tehachapi for a while.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">May 23, 2026 • Day 35</div>
     <div class="update-mile">Mile: 549.7</div>
     <div class="update-text"> 
