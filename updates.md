@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">May 26, 2026 • Day 38</div>
+    <div class="update-mile">Mile: 600.2</div>
+    <div class="update-text"> 
+    Today was a completely different kind of weather than I’ve had through the desert section. I woke to the sound of water dropping on the tent and packed up quickly to beat the rain. It was actually dense cloud cover condensing on the trees and getting blown around by strong winds. That was the majority of the day. I decided to push for longer miles given the low temps during a long water carry. It was just starting to clear as I reached my campsite.
+    </div>
+  </div>
+
+<div class="update-card">
+    <div class="update-date">May 25, 2026 • Day 37</div>
+    <div class="update-mile">Mile: 575.1</div>
+    <div class="update-text"> 
+    The Desert Section is finished. What a great experience in Tehachapi. Despite staying in a hotel miles from the main grocery stores, I was able to get everything I needed, a ride to my hotel, and back to the trail the next morning. All of this thanks to local trail angel Jim. He even made a stop at a local park so I could grab some dog poop bags! Thanks to the trail angels who add to the enjoyment of the journey and make these logistics less of a burden along the way.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">May 24, 2026 • Day 36</div>
     <div class="update-mile">Mile: 558.5</div>
     <div class="update-text"> 
