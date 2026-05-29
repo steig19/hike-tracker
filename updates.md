@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">May 28, 2026 • Day 40</div>
+    <div class="update-mile">Mile: 636.5</div>
+    <div class="update-text"> 
+    Nice to have a clear, dry morning and get hiking at my usual time. The trail is still more desert-like than Sierra, but I’m fine with the warmer temps and clear skies. Had some long water carries and took advantage of the cache of water jugs left by some caring individuals. I’m glad I got the early start with rain coming down again just after I got the tent set up.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 27, 2026 • Day 39</div>
+    <div class="update-mile">Mile: 618.5</div>
+    <div class="update-text"> 
+    What started as a very wet morning ended up being a really nice day and hike. It was all a matter of getting to the opposite side of the peak. The skies cleared, trees and grasses were dry, and the trail was amazing. It did start raining as soon as I set up my tent for the night, but fortunately I got everything inside before it could get wet (again).
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">May 26, 2026 • Day 38</div>
     <div class="update-mile">Mile: 600.2</div>
     <div class="update-text"> 
