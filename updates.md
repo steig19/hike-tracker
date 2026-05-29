@@ -13,7 +13,7 @@ nav: updates
     <div class="update-date">May 29, 2026 • Day 41</div>
     <div class="update-mile">Mile: 652.5</div>
     <div class="update-text"> 
-    Happy retirement day, James! Enjoy the next chapter with fun, family, and endless vacation. Today’s hike was similar to the past couple of days. A cold, wet morning followed by clearing and warmer temps. I hustled to get to Walker Pass to catch the early bus to Ridgecrest but just missed it. But I was lucky getting a hitch from Brian, a great guy who took me 20 miles out of his way, all the way to the Ridgecrest Walmart. From there I reserved a room for the night and shopped for tomorrow’s 3-day hike to Kennedy Meadows. Now for a shower and hopefully some pizza and maybe a beer!
+    Happy retirement day, James! Enjoy the next chapter with fun, family, and endless vacation. Today’s hike was similar to the past couple of days. A cold, wet morning followed by clearing and warmer temps. I hustled to get to Walker Pass to catch the early bus to Ridgecrest but just missed it. But I was lucky getting a hitch from Brian, a great guy who took me 20 miles out of his way, all the way to the Ridgecrest Walmart. From there I reserved a room for the night and shopped for tomorrow’s 3-day hike to Kennedy Meadows. Now for a shower, hopefully some pizza and maybe a beer!
     </div>
   </div>
 
