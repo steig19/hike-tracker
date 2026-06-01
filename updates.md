@@ -10,6 +10,30 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">June 1, 2026 • Day 44</div>
+    <div class="update-mile">Mile: 703.4</div>
+    <div class="update-text"> 
+    After all the extra-curriculars getting to last night’s spot, today was a short, amazing hike into Kennedy Meadows. This small, hiker village will be home for two nights. I’m looking forward to getting an extra day of rest before heading up into the high country.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 31, 2026 • Day 43</div>
+    <div class="update-mile">Mile: 694.8</div>
+    <div class="update-text"> 
+    I got up early planning on a 15-18 mile day with some higher elevation gains. I also wanted time for a nice midday break. Everything went great until I decided to push a couple miles past the 18 mile campsite. Ten miles later I ended up at a great spot with plenty of shade and water except by then everyone else on the trail was already setup so my options weren’t any better than anything I’d seen previously. 
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 30, 2026 • Day 42</div>
+    <div class="update-mile">Mile: 669.8</div>
+    <div class="update-text"> 
+    Had a really good sleep at the America Inn. Nothing fancy, just a nice firm bed and simple pillows. Leo from Ridgecrest came early for my ride so I offered him a Starbucks treat before we headed up to the pass. Just glad I could do something for these trail angels helping us get into town and back. The hike and trail from Walker’s Pass was amazing. Today had warmer weather with a cool breeze and massive views of the desert communities I had just visited.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">May 29, 2026 • Day 41</div>
     <div class="update-mile">Mile: 652.5</div>
     <div class="update-text"> 
