@@ -10,6 +10,46 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">June ,7 2026 • Day 50</div>
+    <div class="update-mile">Mile: 790.3</div>
+    <div class="update-text"> 
+    Today was finally the day to really get up and into the Sierra mountains. I woke up at 4am to get an early start on a hike that would cross to mountain passes and cover over 20 miles, ideally on snow that was firm rather than slushy. Forester pass was the first and with a few snow fields on the range, it was a good idea to use the ice spikes. Getting over the top was more of a vertical challenge than a technical one. Coming back down the backside was just plain fun. Once we got down below the snow fields, it was time for coffee and the surrounding mountains and pine valley were an incredible setting. The afternoon hike over Kearsarge was just all vertical, no snow but physically draining. So glad to get a ride from the Onion Valley trailhead to Lone Pine to a motel, good nights sleep, and rest day on Monday.
+    </div>
+  </div>
+
+<div class="update-card">
+    <div class="update-date">June 6, 2026 • Day 49</div>
+    <div class="update-mile">Mile: 775.9</div>
+    <div class="update-text"> 
+    Kennedy Meadows to Forester Pass. The load was heavy coming out of Kennedy Meadows with all the new Sierra equipment and six days of food. Each day was easier and I was so thankful for the frequent streams along the way which helped keep the water weight to a minimum. The trails and vistas have been spectacular. Plenty of challenging climbs gradually getting to over 10,000 ft. I had my first trail coffee near a snow bank and about 100 mosquitoes, but it was still so enjoyable. Today was one of the hardest days with steep climbs at higher elevations and four stream crossings, three required going all in with shoes, socks, and long pants. Fortunately these things dry pretty quickly in the sun and breeze. Overall, the Sierra section has started really well and I’m fortunate to have a hiking buddy (Skippy) along for the high passes and stream crossings. 
+    </div>
+  </div>
+
+<div class="update-card">
+    <div class="update-date">June 1, 2026 • Day 44</div>
+    <div class="update-mile">Mile: 703.4</div>
+    <div class="update-text"> 
+    After all the extra-curriculars getting to last night’s spot, today was a short, amazing hike into Kennedy Meadows. This small, hiker village will be home for two nights. I’m looking forward to getting an extra day of rest before heading up into the high country.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 31, 2026 • Day 43</div>
+    <div class="update-mile">Mile: 694.8</div>
+    <div class="update-text"> 
+    I got up early planning on a 15-18 mile day with some higher elevation gains. I also wanted time for a nice midday break. Everything went great until I decided to push a couple miles past the 18 mile campsite. Ten miles later I ended up at a great spot with plenty of shade and water except by then everyone else on the trail was already setup so my options weren’t any better than anything I’d seen previously. 
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">May 30, 2026 • Day 42</div>
+    <div class="update-mile">Mile: 669.8</div>
+    <div class="update-text"> 
+    Had a really good sleep at the America Inn. Nothing fancy, just a nice firm bed and simple pillows. Leo from Ridgecrest came early for my ride so I offered him a Starbucks treat before we headed up to the pass. Just glad I could do something for these trail angels helping us get into town and back. The hike and trail from Walker’s Pass was amazing. Today had warmer weather with a cool breeze and massive views of the desert communities I had just visited.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">June 1, 2026 • Day 44</div>
     <div class="update-mile">Mile: 703.4</div>
     <div class="update-text"> 
