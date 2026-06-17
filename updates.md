@@ -10,7 +10,7 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
-    <div class="update-date">June ,7 2026 • Day 50</div>
+    <div class="update-date">June 7, 2026 • Day 50</div>
     <div class="update-mile">Mile: 790.3</div>
     <div class="update-text"> 
     Today was finally the day to really get up and into the Sierra mountains. I woke up at 4am to get an early start on a hike that would cross two mountain passes and cover over 20 miles, ideally on snow that was firm rather than slushy. Forester pass was the first and with a few snow fields on the range, it was a good idea to use the ice spikes. Getting over the top was more of a vertical challenge than a technical one. Coming back down the backside was just plain fun. Once we got down below the snow fields, it was time for coffee and the surrounding mountains and pine valley were an incredible setting. The afternoon hike over Kearsarge was just all vertical, no snow but physically draining. So glad to get a ride from the Onion Valley trailhead to Lone Pine to a motel, good nights sleep, and rest day on Monday.
