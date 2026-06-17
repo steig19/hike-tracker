@@ -10,6 +10,54 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">June 16, 2026 • Day 57-59</div>
+    <div class="update-mile">Mile: 904.4</div>
+    <div class="update-text"> 
+    Selden Pass was the driest, easiest pass we’ve crossed and I expect the remaining will be similar as the elevation decreases as well. Once over the top we took a side trail to drop down for a small resupply and camp at Vermilion Valley Resort. It was nice, a little spendy and good to get a real meal. Getting back to the trail required a challenging hike up and over Goodall Pass, which looked like a solid choice on the map, but added a lot of elevation to the day’s hike. We were exhausted by the time we made it to camp. The long hike paid off with just 10+ miles of trail into Mammoth Lakes the next morning. We arrived at the Horseshoe Lake trailhead where a free trolley shuttle took us into town. By 10am we were enjoying coffee and pastries at Schat’s Bakery. Time to rest, refill, and recover for a couple of days.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">June 13, 2026 • Day 56</div>
+    <div class="update-mile">Mile: 862.7</div>
+    <div class="update-text"> 
+    Muir Pass was my favorite pass the so far. There was a lot of snow and a few navigation and obstacle challenges, but overall a beautiful range and very rewarding summit. Particularly the Muir Shelter at the top. The trail down had LOTS of water crossings, including the fast flowing Evolution Creek. We opted for an alternate route where it was still deep, but moving slowly. I did it without shoes just to keep them as dry as possible for the long climb to Selden.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">June 12, 2026 • Day 55</div>
+    <div class="update-mile">Mile: 836.2</div>
+    <div class="update-text"> 
+    Mather Pass was an easy climb but challenging descent, not sketchy, just a lot of scrambling on rocks in between boot packed snow. The knees and ankles were tired and aching as we reached the valley on the other side. We hiked some extra miles again to get as high as possible on the approach to Muir Pass after hearing that there were lengthy snowfields to cross both up and down the trail.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">June 11, 2026 • Day 54</div>
+    <div class="update-mile">Mile: 816.8</div>
+    <div class="update-text"> 
+    Pinchot Pass a fording the Kings River. We got up early expecting a lot of snow and possible slow going with the ice spikes. This pass was much easier and we made good time getting over, down, and on our way to basecamp below Mather pass. The stream and river crossings were another story. Crossing the Kings River took some patience and planning but overall it was the smaller streams the kept our feet wet most of the day.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">June 10, 2026 • Day 53</div>
+    <div class="update-mile">Mile: 805.4</div>
+    <div class="update-text"> 
+    Glen Pass and the beautiful Rae Lakes. Lots of descending before the suspension bridge then climbing along the "water slide". Plenty of crossings to get our feet wet too. Our current working plan is to camp short of each pass, then get up early and hike over and down on solid snow. 
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">June 9, 2026 • Day 52</div>
+    <div class="update-mile">Mile: 791.3</div>
+    <div class="update-text"> 
+    After a big breakfast and shuttle to the trailhead, we returned to the trail for the 8.5 mile hike back over Kearsarge Pass to rejoin the PCT. Planning for an early ascent on Glen Pass tomorrow, we set up camp one mile below the summit. Overall, an easy day with plenty of time to enjoy a spectacular campsite.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">June 7, 2026 • Day 50</div>
     <div class="update-mile">Mile: 790.3</div>
     <div class="update-text"> 
