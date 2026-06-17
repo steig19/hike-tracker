@@ -18,7 +18,7 @@ nav: updates
   </div>
 
 <div class="update-card">
-    <div class="update-date">June 6, 2026 • Day 49</div>
+    <div class="update-date">June 6, 2026 • Day 46-49</div>
     <div class="update-mile">Mile: 775.9</div>
     <div class="update-text"> 
     Kennedy Meadows to Forester Pass. The load was heavy coming out of Kennedy Meadows with all the new Sierra equipment and six days of food. Each day was easier and I was so thankful for the frequent streams along the way which helped keep the water weight to a minimum. The trails and vistas have been spectacular. Plenty of challenging climbs gradually getting to over 10,000 ft. I had my first trail coffee near a snow bank and about 100 mosquitoes, but it was still so enjoyable. Today was one of the hardest days with steep climbs at higher elevations and four stream crossings, three required going all in with shoes, socks, and long pants. Fortunately these things dry pretty quickly in the sun and breeze. Overall, the Sierra section has started really well and I’m fortunate to have a hiking buddy (Skippy) along for the high passes and stream crossings. 
