@@ -37,7 +37,7 @@ nav: updates
     <div class="update-date">June 11, 2026 • Day 54</div>
     <div class="update-mile">Mile: 816.8</div>
     <div class="update-text"> 
-    Pinchot Pass a fording the Kings River. We got up early expecting a lot of snow and possible slow going with the ice spikes. This pass was much easier and we made good time getting over, down, and on our way to basecamp below Mather pass. The stream and river crossings were another story. Crossing the Kings River took some patience and planning but overall it was the smaller streams the kept our feet wet most of the day.
+    Pinchot Pass and fording the Kings River. We got up early expecting a lot of snow and possible slow going with the ice spikes. This pass was much easier and we made good time getting over, down, and on our way to basecamp below Mather pass. The stream and river crossings were another story. Crossing the Kings River took some patience and planning but overall it was the smaller streams the kept our feet wet most of the day.
     </div>
   </div>
 
