@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">June 19, 2026 • Day 62</div>
+    <div class="update-mile">Mile: 921.1</div>
+    <div class="update-text"> 
+    Mammoth Lakes will probably be the best resupply and rejuvenation stop on this PCT hike. Despite all the great food and amenities, there is more hiking to be done so today we got back on the trail. It took about half the day before I felt like a thru hiker again. Luckily the legs came back just before the climb back up to 9,000+ feet and our amazingly scenic campsite.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">June 16, 2026 • Day 57-59</div>
     <div class="update-mile">Mile: 904.4</div>
     <div class="update-text"> 
