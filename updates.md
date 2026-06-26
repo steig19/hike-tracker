@@ -9,6 +9,54 @@ nav: updates
   <h2 class="updates-title">Trail Updates</h2>
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
+   <div class="update-card">
+    <div class="update-date">June 25, 2026 • Day 68</div>
+    <div class="update-mile">Mile: 1018.3</div>
+    <div class="update-text"> 
+    This was one of the most amazing morning hikes of the trip so far. It started cold and early with temps around 34 as we packed up and headed upward toward a series of passes. It was obvious that the trail was transitioning to the Northern California section both in vegetation and rock type. The scenery was spectacular as the trail climbed to nearly 11,000 ft where remnants of snow fields presented some exciting traverses. By noon we were finished with the hike and headed for a resupply at Kennedy Meadows North. It’ll be a one-nighter of camping and a shuttle ride back to the trail in the morning.
+    </div>
+  </div>
+ 
+ <div class="update-card">
+    <div class="update-date">June 24, 2026 • Day 67</div>
+    <div class="update-mile">Mile: 1005.7</div>
+    <div class="update-text"> 
+    Left Yosemite today, which was an incredibly beautiful segment of the Sierra section. After Dorothy Lake the trail gradually dropped some in elevation, but returned to the dry, sandy mix I remember from the desert section. It was easy hiking today, but also a reminder of how challenging the Sierra portion of the PCT was. I’m ready for some recovery time.
+    </div>
+  </div>
+ 
+ <div class="update-card">
+    <div class="update-date">June 23, 2026 • Day 66</div>
+    <div class="update-mile">Mile: 985.4</div>
+    <div class="update-text"> 
+    I had an amazing early morning coffee spot just after leaving camp. Climbed Seavey Pass today, which was a really nice hike and had some scenic lakes at the top. Heavy ups and downs including a climb up to a primitive campsite (one of the best so far!).
+    </div>
+  </div>
+ 
+ <div class="update-card">
+    <div class="update-date">June 22, 2026 • Day 65</div>
+    <div class="update-mile">Mile: 969.7</div>
+    <div class="update-text"> 
+    Today was Benson Pass. No snow, but challenging climbs and descents. Many beautiful lakes, waterfalls and vistas. The water carries a minimal, but the food weight and bear can make it challenging to balance when scrambling over large rocks or downed trees. I was really worn out after this one.
+    </div>
+  </div>
+ 
+ <div class="update-card">
+    <div class="update-date">June 21, 2026 • Day 64</div>
+    <div class="update-mile">Mile: 952.2</div>
+    <div class="update-text"> 
+    Just a short, six mile to Tuolumne Meadows (for a resupply box pickup) and then back on trail for another nine miles to the campsite. The morning hike to Tuolumne was beautiful and went so fast. The afternoon hike was certainly scenic, but very warm and buggy. We camped near a lake which drew a lot of evening hikers who probably spent most of their day at the general store.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">June 20, 2026 • Day 63</div>
+    <div class="update-mile">Mile: 937.7</div>
+    <div class="update-text"> 
+    Today was probably our last crossing of the snowy passes we’ve been encountering all along the Sierra route. There was much less snow than previously and a lot more water - around, on, and through the trail. I counted three stream/creek crossings that required creative efforts to stay dry and two that were just going to end with wet feet. The treat of the day was a quiet, flat, dirt track trail along a stream and meadow for the remaining two miles to camp. 
+    </div>
+  </div>
+
   <div class="update-card">
     <div class="update-date">June 19, 2026 • Day 62</div>
     <div class="update-mile">Mile: 921.1</div>
