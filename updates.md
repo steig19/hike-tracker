@@ -68,7 +68,7 @@ nav: updates
     <div class="update-date">June 22, 2026 • Day 65</div>
     <div class="update-mile">Mile: 969.7</div>
     <div class="update-text"> 
-    Today was Benson Pass. No snow, but challenging climbs and descents. Many beautiful lakes, waterfalls and vistas. The water carries a minimal, but the food weight and bear can make it challenging to balance when scrambling over large rocks or downed trees. I was really worn out after this one.
+    Today was Benson Pass. No snow, but challenging climbs and descents. Many beautiful lakes, waterfalls and vistas. The water carries are minimal, but the food weight and bear can make it challenging to balance when scrambling over large rocks or downed trees. I was really worn out after this one.
     </div>
   </div>
  
