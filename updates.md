@@ -13,7 +13,7 @@ nav: updates
     <div class="update-date">June 29, 2026 • Day 72</div>
     <div class="update-mile">Mile: 1083.2</div>
     <div class="update-text"> 
-    Up and over the last named pass of the Sierra section. After crossing over Carson Pass it was a gentle descent into a popular trailhead and lots of local hikers. Skippy decided to push all the way to Tahoe so it was my first solo camp since the desert section. Indeed chose one with solitude and a beautiful overlook of Lake Tahoe.
+    Up and over the last named pass of the Sierra section. After crossing over Carson Pass it was a gentle descent into a popular trailhead and lots of local hikers. Skippy decided to push all the way to Tahoe so it was my first solo camp since the desert section. I chose one with solitude and a beautiful overlook of Lake Tahoe.
     </div>
   </div>
   
