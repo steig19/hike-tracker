@@ -768,8 +768,8 @@
           <div class="pct-section-title"><span>Northbound Mile Markers · Start April 19, 2026</div>
           <div class="pct-rows">
             <div class="pct-row"><span >Desert Section</span>0.0 to 566.5</div>
-            <div class="pct-row"><span style='color: #ff8c00;'>Sierra Section</span>566.5 to 1093.4</div>
-            <div class="pct-row"><span>Northern California Section</span>1093.4 to 1720.4</div>
+            <div class="pct-row"><span>Sierra Section</span>566.5 to 1091.9</div>
+            <div class="pct-row"><span style='color: #ff8c00;' >Northern California Section</span>1091.9 to 1720.4</div>
             <div class="pct-row"><span>Oregon Section</span>1720.4 to 2150.2</div>
             <div class="pct-row"><span>Washington Section</span>2150.2 to 2655.8</div>
             <div class="pct-row"><b>Pacific Crest Trail Line</b><span style='color: #03B1FC; font-weight:bold;'>--------------</span></div>
