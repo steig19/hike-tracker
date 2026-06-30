@@ -765,7 +765,7 @@
         </div>
 
         <div class="pct-section">
-          <div class="pct-section-title"><span>Northbound Mile Markers · Start April 19, 2026</div>
+          <div class="pct-section-title"><span>Northbound Mile Markers · Started April 19, 2026</div>
           <div class="pct-rows">
             <div class="pct-row"><span >Desert Section</span>0.0 to 566.5</div>
             <div class="pct-row"><span>Sierra Section</span>566.5 to 1091.9</div>
