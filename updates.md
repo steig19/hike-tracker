@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 1-4 , 2026 • Days 74-77</div>
+    <div class="update-mile">Mile: 1091.9</div>
+    <div class="update-text"> 
+    Zero days in S. Lake Tahoe 
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">June 30, 2026 • Day 73</div>
     <div class="update-mile">Mile: 1091.9</div>
     <div class="update-text"> 
