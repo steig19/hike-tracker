@@ -10,6 +10,53 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 10, 2026 • Day 83</div>
+    <div class="update-mile">Mile: 1196.5</div>
+    <div class="update-text"> 
+    Up early for the long descent into Sierra City. I’ve been living at 7-9,000 ft for what seems like the last month so it was a surprise to get below 4,500 and see oak leaves on the trail like back home. The temps were also a big change, hot and a little more humid. My package from home arrived with food and new shoes and with an ice cream cookie sandwich I was all set to get organized and repack. Had a burger and fries at the Red Moose Cafe () while finishing some Strava and trail updates. I’ll be camping just off the trail after the 1.5 mile road walk back up the hill. I’m opting to tackle the big climb tomorrow early in the morning rather than mid-afternoon in this valley heat!
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">July 9, 2026 • Day 82</div>
+    <div class="update-mile">Mile: 1182.6</div>
+    <div class="update-text"> 
+    I’ve decided I’m going to hike more for a duration of time than for a specific distance or camp site. It’s something I’ve been thinking about lately and hope will take some of the focus off of the destination and put it more on the trail and enjoyment of the hike. I’m already pretty focused on food and water as it is. Speaking of which, tomorrow is a resupply box pickup with new shoes and socks! That will definitely add to the hiking enjoyment!
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">July 8, 2026 • Day 81</div>
+    <div class="update-mile">Mile: 1160.1</div>
+    <div class="update-text"> 
+    An early start for a busy day to Truckee for a resupply with an 1130 pickup by Terry Bliss (Blue Moon). Made it there at 11a. We started with a Dairy Queen lunch including a chocolate dipped cone and then continued to the grocery and the outfitter stores. I ended up getting two used fuel canisters from the hiker box with enough fuel to fill mine and another hiker’s canisters. It was so great the see Terry again who drive from Reno just to haul me around for the afternoon. He’s a PCT hiking buddy and trail angel! After I got dropped off and back on trail I saw a brown bear about 50 yards away and running further into the woods after it saw me. Once I walked past it decided to follow me a bit but I yelled at it and kept walking. It eventually lost interest in me. I only hiked another couple of miles before calling it a day.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">July 7, 2026 • Day 80</div>
+    <div class="update-mile">Mile: 1145.6</div>
+    <div class="update-text"> 
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">July 6, 2026 • Day 79</div>
+    <div class="update-mile">Mile: 1126.8</div>
+    <div class="update-text"> 
+    Moist but clear morning and after coffee, got an early start to a longer hike day. Trail Magic + at the Bear Pass Trailhead! Lil’ Sumpin’, chips, soft taco, and chocolate! My favorite so far.
+    </div>
+  </div>
+
+ <div class="update-card">
+    <div class="update-date">July 5, 2026 • Day 78</div>
+    <div class="update-mile">Mile: 1104.5</div>
+    <div class="update-text"> 
+    After a nice, relaxing breakfast this morning we packed up and drove to the trailhead so I could get back on the PCT. Cal and the girls followed me up the half mile connector trail before we said our goodbyes and I was back on my way to Canada. My first stop was at the Echo Lake Chalet where they drove and met me again for my morning coffee and snack break. Then it was time for the final farewell. I waved goodbye, headed over the dam and up the PCT/Tahoe Rim trail. It was very busy with day hikers and the holiday weekend crowd. Despite all the traffic and The trail rocky trail tread I tried to make good time and get back into the flow. Fifteen miles later my feet were done and I found a nice, quiet spot to camp near Gilbert Lake. Today was a great transition back, but I will be upping the hike mileage starting tomorrow.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">July 1-4 , 2026 • Days 74-77</div>
     <div class="update-mile">Mile: 1091.9</div>
     <div class="update-text"> 
