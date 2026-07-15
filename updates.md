@@ -10,6 +10,38 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 14, 2026 • Day 87</div>
+    <div class="update-mile">Mile: 1269.6</div>
+    <div class="update-text"> 
+    My lucky day! I set off early to see if I could get to the road leading to Quincy and get a hitch before noon. I needed to resupply, shower, laundry, and do website updates in one afternoon and also arrange for a ride 15 miles back up the hill. As advertised, the Quincy trail angels are truly active and willing to help pct hikers. Just as I popped off the trail at the road, there was Bruce dropping off four hikers and then asking me, "need a ride?" After my grocery shopping was done I stopped for snacks and hydration at a convenience store where Shelly offered a ride. On our way to my motel she asked about where I was going next and offered to take me back to the trail in the morning! All I needed to do now was wear my trail clothes in the shower and write/post this update (among other details). Looks like I’m ready to go tomorrow thanks to these kind folks from Quincy, CA.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">July 13, 2026 • Day 86</div>
+    <div class="update-mile">Mile: 1262.4</div>
+    <div class="update-text">
+    An exhausting day climbing over trees either burned or blown down while climbing some steep trail. Trying to get within striking distance of a short day to the next resupply and refueling day. I did get a dip/wash in the Feather River, which was nice.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">July 12, 2026 • Day 85</div>
+    <div class="update-mile">Mile: 1241.4</div>
+    <div class="update-text"> 
+    Slept in (530a) and had a few maintenance things to do so with coffee and all started around 8a. Some steep climbs today kept me working to keep the pace. When I found out about some trail magic near the end of the hike I had no problem speeding up. A guy named Zach (TN “Pickles”) made me an amazing turkey club sandwich and, since all he had left in his cooler was cold coffee or beer well, you know the rest. Since I skipped a good camp spot to extend for the goodies, I was now hiking in a burn zone with very few good places to camp. It took me a couple miles to find something primitive off trail, but it was peaceful and remote.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">July 11, 2026 • Day 84</div>
+    <div class="update-mile">Mile: 1217.7</div>
+    <div class="update-text"> 
+    Lots of climbing today. I got up early to tackle what looked like a steep climb, but given the morning temperatures and peaceful setting, it was really enjoyable. As the sun came up and the day warmed, the rest of the climbs weren’t difficult, just hot. I did take a wrong turn that was 0.75 miles and unfortunately down a steep hill. That was both physically and mentally challenging. These things happen late in the day when fatigue sets in on both fronts!
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">July 10, 2026 • Day 83</div>
     <div class="update-mile">Mile: 1196.5</div>
     <div class="update-text"> 
