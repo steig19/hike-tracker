@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 15, 2026 • Day 88</div>
+    <div class="update-mile">Mile: 1288.3</div>
+    <div class="update-text"> 
+    Trail angel Shelly came promptly at 7:45 to take me to the coffee shop and back to the trailhead. From there I hiked through much better conditions to the town of Belden where a small resort offers a restaurant and bar, which is all I needed after a hot day of hiking.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">July 14, 2026 • Day 87</div>
     <div class="update-mile">Mile: 1269.6</div>
     <div class="update-text"> 
