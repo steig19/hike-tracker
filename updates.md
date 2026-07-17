@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 17, 2026 • Day 90</div>
+    <div class="update-mile">Mile: 1323.2</div>
+    <div class="update-text"> 
+    Glad to be back at elevation. A great hike today after a cool night and morning. Small sections of living trees and uninterrupted trail were a welcome surprise on the "easy" day before a resupply in Chester.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 16, 2026 • Day 89</div>
+    <div class="update-mile">Mile: 1309.1</div>
+    <div class="update-text"> 
+    A lot of climbing out of Belden, over downed trees and mountain passes. The highlight was formally crossing from the Sierra Nevada range into the Cascades. Looking forward to getting past this burn zone.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">July 15, 2026 • Day 88</div>
     <div class="update-mile">Mile: 1288.3</div>
     <div class="update-text"> 
