@@ -21,7 +21,7 @@
 
   const TRAIL_TOTAL_MI = 2655.8; // Pacific Crest Trail
   
-  const TOTAL_TRAIL_MI = 1323.2; // Current trail miles hiked
+  const TOTAL_TRAIL_MI = 1332.8; // Current trail miles hiked
   
   function fmtDate(ts) {
     try { return new Date(ts).toLocaleString(); }
