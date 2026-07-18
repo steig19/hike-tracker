@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 18, 2026 • Day 91</div>
+    <div class="update-mile">Mile: 1332.8</div>
+    <div class="update-text"> 
+    I hit the halfway point today! Its a town day with a 9+ mile hike to the road. I was up early with the sunris and it took a while to get a ride, but my average is still pretty good. Donuts, a shower, groceries, and a burger are on the list for today.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">July 17, 2026 • Day 90</div>
     <div class="update-mile">Mile: 1323.2</div>
     <div class="update-text"> 
