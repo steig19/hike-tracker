@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 20, 2026 • Day 93</div>
+    <div class="update-mile">Mile: 1376.8</div>
+    <div class="update-text"> 
+    From Kings Creek inside Lassen National Park to the Hat Creek National Forest picnic and trailhead area. It was such a pleasurable hike with very little burn debris and the return to living forest trails.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">July 19, 2026 • Day 92</div>
     <div class="update-mile">Mile: 1354.3</div>
     <div class="update-text"> 
