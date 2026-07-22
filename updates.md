@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 20, 2026 • Day 92</div>
+    <div class="update-mile">Mile: 1354.3</div>
+    <div class="update-text"> 
+    After a couple of donuts and coffee I got back on the road and found a ride almost instantly. Felt sluggish all morning but after a short nap, recovered nicely for good mileage despite the later start.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">July 18, 2026 • Day 91</div>
     <div class="update-mile">Mile: 1332.8</div>
     <div class="update-text"> 
