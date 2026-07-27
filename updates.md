@@ -10,6 +10,54 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 26, 2026 • Day 99</div>
+    <div class="update-mile">Mile: 1502.8</div>
+    <div class="update-text"> 
+    Just a quick hike down the mountain to grab some food and a place for the night in Dunsmuir, CA.
+    </div>
+  </div>
+  
+ <div class="update-card">
+    <div class="update-date">July 25, 2026 • Day 98</div>
+    <div class="update-mile">Mile: 1488.2</div>
+    <div class="update-text"> 
+    So far, the best trail day in the Northern California section. Great trail, beautiful forests and lots of water supply. Shade for most of the day and a nice, planned campsite.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 24, 2026 • Day 97</div>
+    <div class="update-mile">Mile: 1464.1</div>
+    <div class="update-text"> 
+    Today was hard. And that’s all I’m going to say about that, except I’m really hungry for a pizza.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 24, 2026 • Day 96</div>
+    <div class="update-mile">Mile: 1438.8</div>
+    <div class="update-text"> 
+    From Burney Falls State Park into the Shasta National Forest. Plenty of climbing and a revisiting of the overgrown/blowdown challenges from the burn zone. Much harder than expected today.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 23, 2026 • Day 95</div>
+    <div class="update-mile">Mile: 1420.6</div>
+    <div class="update-text"> 
+    Big day today (happy birthday Calvin!) so it was up early and on the trail by 530. Much cooler hiking than yesterday because of shady tree cover and a gorgeous breeze. One quick stop for a mini resupply at Burney Mt Guest Ranch before setting up camp at Burney Falls State Park.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 21, 2026 • Day 94</div>
+    <div class="update-mile">Mile: 1400.4</div>
+    <div class="update-text"> 
+    From the Hat Creek Picnic Area (Old Station) up onto a lava flow ridge. It was hot like lava too, but the view was great!
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">July 20, 2026 • Day 93</div>
     <div class="update-mile">Mile: 1376.8</div>
     <div class="update-text"> 
