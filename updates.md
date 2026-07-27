@@ -34,7 +34,7 @@ nav: updates
   </div>
   
   <div class="update-card">
-    <div class="update-date">July 24, 2026 • Day 96</div>
+    <div class="update-date">July 23, 2026 • Day 96</div>
     <div class="update-mile">Mile: 1438.8</div>
     <div class="update-text"> 
     From Burney Falls State Park into the Shasta National Forest. Plenty of climbing and a revisiting of the overgrown/blowdown challenges from the burn zone. Much harder than expected today.
@@ -42,7 +42,7 @@ nav: updates
   </div>
   
   <div class="update-card">
-    <div class="update-date">July 23, 2026 • Day 95</div>
+    <div class="update-date">July 22, 2026 • Day 95</div>
     <div class="update-mile">Mile: 1420.6</div>
     <div class="update-text"> 
     Big day today (happy birthday Calvin!) so it was up early and on the trail by 530. Much cooler hiking than yesterday because of shady tree cover and a gorgeous breeze. One quick stop for a mini resupply at Burney Mt Guest Ranch before setting up camp at Burney Falls State Park.
