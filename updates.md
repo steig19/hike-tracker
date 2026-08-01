@@ -10,6 +10,46 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">July 31, 2026 • Day 104</div>
+    <div class="update-mile">Mile: 1601.2</div>
+    <div class="update-text"> 
+    Up early to get a resupply in Etna. Looking forward to a heavy meal and hot shower. Also, getting these updates posted has been much more difficult than expected with the remote cell networks. It seems I can make calls but data uploads are nearly impossible. For now, all I can do is update with a wifi connection when I get to town. Thanks for your patience.
+    </div>
+  </div>
+  
+ <div class="update-card">
+    <div class="update-date">July 30, 2026 • Day 103</div>
+    <div class="update-mile">Mile: 1587.6</div>
+    <div class="update-text"> 
+    Only 105 miles left for California. Tomorrow I’ll go into the town of Etna where I’ve decided to take an extra half-day to rest and refuel. Finally made the turn north again after a couple of big climbs and a lengthy burn section with its various challenges.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 29, 2026 • Day 102</div>
+    <div class="update-mile">Mile: 1567.6</div>
+    <div class="update-text"> 
+    I love the early, cool morning starts and how the sun rise casts an orange glow on everything. By noon it was just hot as the trail climbed about 1200 feet before entering the Trinity Alps Wilderness. Great camp near a stream where I could wash my legs and feet.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 28, 2026 • Day 101</div>
+    <div class="update-mile">Mile: 1544.6</div>
+    <div class="update-text"> 
+    A much cooler day hiking the crest of these peaks and gradually working my way west and north. Mt. Shasta is fading into the distance as the trail winds through this volcanic landscape.
+    </div>
+  </div>
+  
+  <div class="update-card">
+    <div class="update-date">July 27, 2026 • Day 100</div>
+    <div class="update-mile">Mile: 1521.4</div>
+    <div class="update-text"> 
+    Out of Dunsmuir and into the Castle Crag Wilderness. Got to the trail early and had a cool morning while gradually climbing the first half of the 5,000+ ft of gain for the day. Great trail and views of the Crags all day.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">July 26, 2026 • Day 99</div>
     <div class="update-mile">Mile: 1502.8</div>
     <div class="update-text"> 
