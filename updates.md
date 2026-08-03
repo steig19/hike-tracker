@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 2, 2026 • Day 106</div>
+    <div class="update-mile">Mile: 1636.2</div>
+    <div class="update-text"> 
+    A perfect day for hiking with cooler temps, shady trails, and a nice breeze. Made some good miles with a mix of steep climbs and side of the slope flats.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 1, 2026 • Day 105</div>
+    <div class="update-mile">Mile: 1615.6</div>
+    <div class="update-text"> 
+    Started hitching out of Etna at 10a and got picked up 15 minutes later by "Lucky", a PCT hiker recovering from some foot tendon issues. Hiked for about 5 hours, which was plenty in the hot sun, before finding a nice spot near a small pond.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">July 31, 2026 • Day 104</div>
     <div class="update-mile">Mile: 1601.2</div>
     <div class="update-text"> 
