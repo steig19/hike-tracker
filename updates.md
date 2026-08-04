@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 3, 2026 • Day 107</div>
+    <div class="update-mile">Mile: 1657.9</div>
+    <div class="update-text"> 
+    A downhill hike of about 6000 ft means dropping into 100 degree temps. The deep valley trails were delightful, but the last 6.5 miles were on gravel and pavement so, not so cool (if you know what I mean). Found a grassy, shaded spot at the Wildwood RV Park.
+    </div>
+  </div>
+  
+  <div class="update-card">
     <div class="update-date">Aug 2, 2026 • Day 106</div>
     <div class="update-mile">Mile: 1636.2</div>
     <div class="update-text"> 
