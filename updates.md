@@ -10,6 +10,38 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 7, 2026 • Day 111</div>
+    <div class="update-mile">Mile: 1719.2</div>
+    <div class="update-text"> 
+    Lots of smoke in the air today. I had a not-so-easy hike to the highway for trail angel ride into Ashland. I missed the first turn off and then almost missed the highway after crossing the RR tracks! Many thanks to "Puppy Mama" for the ride and tour of Ashland.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 6, 2026 • Day 110</div>
+    <div class="update-mile">Mile: 1716.6</div>
+    <div class="update-text"> 
+    Trail Magic twice within one mile! Thanks to the couple from CA for the delicious muffins and apple. I was quick today and setup early only to have two trees blow down once the wind started to pick up. I decided to pack up and move on to a more peaceful site (see day 110 part 2).
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 5, 2026 • Day 109</div>
+    <div class="update-mile">Mile: 1695.1</div>
+    <div class="update-text"> 
+    Oregon! California was unbelievable but it feels great to complete it. This northern section especially, was hot and full of obstacles. Looking forward to Crater Lake and new volcanic vistas!
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 4, 2026 • Day 108</div>
+    <div class="update-mile">Mile: 1675.3</div>
+    <div class="update-text"> 
+    Got up at 3a for a 4 o’clock flight out of Seiad Valley. Climbed 4,500 ft before the coffee service and then climbed another 2,800 ft before landing at a relaxing site with all day shade right around 1230p.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 3, 2026 • Day 107</div>
     <div class="update-mile">Mile: 1657.9</div>
     <div class="update-text"> 
