@@ -13,7 +13,7 @@ nav: updates
     <div class="update-date">Aug 8, 2026 • Day 112</div>
     <div class="update-mile">Mile: 1719.2</div>
     <div class="update-text"> 
-    I got most of my work done yesterday, but today required laundry and a shop/ship for a resupply up the trail. I think I could have picked a motel with a more convenient location.
+    I got most of my work done yesterday, but today I still needed to do laundry and a shop/ship for a resupply up the trail. I think I could have picked a motel with a more convenient location.
     </div>
   </div>
 
