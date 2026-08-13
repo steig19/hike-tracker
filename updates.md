@@ -10,6 +10,38 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 13, 2026 • Day 117</div>
+    <div class="update-mile">Mile: 1821.9</div>
+    <div class="update-text"> 
+    Beautiful morning for a hike. I had to use a headlamp for the first mile, but once the sun came up it was a hike through a 10 mile burn zone. The last 6 miles in Crater Lake NP were very nice. Thankfully the resupply box made it there before me.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 12, 2026 • Day 116</div>
+    <div class="update-mile">Mile: 1806.5</div>
+    <div class="update-text"> 
+    Fun hike today. Very cool temps this morning. A bit of a revisit of the NorCal-type climbs and blowdowns, but there were some great volcanic features along the way including traversing the rim of a small volcanic crater. Finished about 15 miles from Crater Lake NP.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 11, 2026 • Day 115</div>
+    <div class="update-mile">Mile: 1786.4</div>
+    <div class="update-text"> 
+    A longer mileage day today to help reduce the miles needed to get to Crater Lake Thursday before the Village Store closes. Lots of variety on this hike, especially the traverses over lava fields. Overall the Oregon section has had fewer steep climbs and descents, definitely easier on the knees and ankles.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 9, 2026 • Day 113</div>
+    <div class="update-mile">Mile: 1739.3</div>
+    <div class="update-text"> 
+    Thanks again to Allyson (Puppy Mama) for picking me up from the hotel and dropping me back on trail by 730a. It was a really nice day, not as hot with a nice breeze and less smokiness. Five days of food in the pack didn’t feel all that heavy either!
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 8, 2026 • Day 112</div>
     <div class="update-mile">Mile: 1719.2</div>
     <div class="update-text"> 
