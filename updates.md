@@ -34,6 +34,14 @@ nav: updates
   </div>
 
   <div class="update-card">
+    <div class="update-date">Aug 10, 2026 • Day 114</div>
+    <div class="update-mile">Mile: 1760.9</div>
+    <div class="update-text"> 
+    Warm day in Oregon. The smoke cleared for the morning, but returned later in the day. Snuck my tent into a pretty comfortable spot after a good day’s hike.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 9, 2026 • Day 113</div>
     <div class="update-mile">Mile: 1739.3</div>
     <div class="update-text"> 
