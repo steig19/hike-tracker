@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 17, 2026 • Day 121</div>
+    <div class="update-mile">Mile: 1907.7</div>
+    <div class="update-text"> 
+    Definitely slept too close to the lake this morning. The outside of the tent was wet, but fortunately the inside walls were dry. While some took a shortcut that saved some elevation and about 8 miles, I opted for the PCT and had a spectacular hike through the Diamond Peak Wilderness.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 16, 2026 • Day 120</div>
+    <div class="update-mile">Mile: 1891.6</div>
+    <div class="update-text"> 
+    A pretty, serene morning at Maidu Lake and no condensation on the tent. After hiking the mile back to the PCT, I headed for Summit Lake and passed over lava flows and through lush forests.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 15, 2026 • Day 119</div>
     <div class="update-mile">Mile: 1867.5</div>
     <div class="update-text"> 
