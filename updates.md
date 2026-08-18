@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 15, 2026 • Day 119</div>
+    <div class="update-mile">Mile: 1867.5</div>
+    <div class="update-text"> 
+    A very relaxed pace after yesterday’s elevation gains and distance. Since water is more scarce I opted to camp at Maidu Lake, a little shorter than planned, but only 12 miles from the next water cache. Great views, and weather conditions today!
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 14, 2026 • Day 118</div>
+    <div class="update-mile">Mile: 1849.5</div>
+    <div class="update-text"> 
+    I packed and left the crowded PCT hikers camp at 5a to make coffee/breakfast in front of the General Store. Then, a 6 mile, 1,200 ft hike to the Crater Lake rim where I joined the Rim Trail for amazing views and another 6/1,200 stretch. Once past the rim trail the hike flattened dramatically all the way to camp just past the NP border.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 13, 2026 • Day 117</div>
     <div class="update-mile">Mile: 1821.9</div>
     <div class="update-text"> 
