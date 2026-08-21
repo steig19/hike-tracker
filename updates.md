@@ -8,6 +8,29 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
+  <div class="update-card">
+    <div class="update-date">Aug 21, 2026 • Day 125</div>
+    <div class="update-mile">Mile: 1985.3</div>
+    <div class="update-text"> 
+    Nighthike 2! Unexpected creaking of a nearby giant tree was more annoying than dangerous, so I opted to find another site. Ten adventurous miles later I was at the trailhead where I’d get a ride into Sisters in the morning from trail angel John. I still had time for another 3 hours of sleep! Looking forward to pastries, resupply, and a relaxing stay in Sisters.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 20, 2026 • Day 124</div>
+    <div class="update-mile">Mile: 1975.4</div>
+    <div class="update-text"> 
+    Today was really nice, weather-wise. Still warm, but with a cool breeze and occasional cloud cover. All day I was getting amazing views of the Three Sisters and hiking through various volcanic rock types and formations.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 19, 2026 • Day 123</div>
+    <div class="update-mile">Mile: 1951.6</div>
+    <div class="update-text"> 
+    Four months ago today I started my hike on the Pacific Crest Trail. Thinking about that, I realized how lucky I’ve been to have hiked almost 2,000 miles on this amazing and challenging trail without any incidents or closures. Unfortunately, that won’t be the case in Washington. There are currently three PCT trail sections closed due to three different fires. Officials say those closures will remain in place through October. I’ve decided that I’d rather hike the Washington PCT in its entirety, which can’t happen this year, so I’ll be ending this journey at Cascade Locks, OR. I haven’t the slightest bit of disappointment that this is way this thru-hike will end. How could I? Every single day has been an adventure. I’m just so grateful for having had the health, support, and opportunity to spend these past four months hiking the Pacific Crest Trail.
+    </div>
+  </div>
   
   <div class="update-card">
     <div class="update-date">Aug 17, 2026 • Day 121</div>
