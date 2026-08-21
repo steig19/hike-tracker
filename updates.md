@@ -33,6 +33,14 @@ nav: updates
   </div>
   
   <div class="update-card">
+    <div class="update-date">Aug 18, 2026 • Day 122</div>
+    <div class="update-mile">Mile: 1925.3</div>
+    <div class="update-text"> 
+    It was a leisurely morning at Shelter Cove as I wrapped up what I needed to do using the wifi and half waited for either the cafe to open or a ride that might come around and get me one mile closer to the trailhead. The ride won. Today’s hike was pretty leisurely too aside from a couple of climbs during the final 10 miles ending at a pretty sweet primitive site at about 6,500 ft.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 17, 2026 • Day 121</div>
     <div class="update-mile">Mile: 1907.7</div>
     <div class="update-text"> 
