@@ -8,6 +8,47 @@ nav: updates
 
   <h2 class="updates-title">Trail Updates</h2>
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
+  
+  <div class="update-card">
+    <div class="update-date">Aug 27, 2026 • Day 131</div>
+    <div class="update-mile">Mile: 2085.9</div>
+    <div class="update-text"> 
+    The plan to get past the smoke clouds worked perfectly. I got up at 4am and was on the trail by 5 to make it through the dense band before it could develop. By 10am I was 14 miles along and getting out of the path as the winds picked up. I couldn’t have asked for better temps or smoother trails. The day ended with clear blue skies and a well shaded campsite.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 26, 2026 • Day 130</div>
+    <div class="update-mile">Mile: 2061.2</div>
+    <div class="update-text"> 
+    Short, but glorious day. Started chilly and with some hesitation about charging into the smoke field from a nearby fire. But after careful consideration for winds and distances, I decided to continue on the PCT rather than reroute to Government Camp. Glad I did, as I ended up with a great site at higher elevation, cell service so I could check conditions, and peaceful surroundings.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 25, 2026 • Day 129</div>
+    <div class="update-mile">Mile: 2048.7</div>
+    <div class="update-text"> 
+    Hiked the final stretch through the Mt. Jefferson Wilderness which was the most scenic so far. Crossed the Whitewater Creek, thick with glacial silt, saw a family of mountain goats, and climbed for a grand vista of the mountain and its glaciers. An amazing hike before traversing a long, well maintained burn section on the way to a busy campsite at Olallie Lake.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 24, 2026 • Day 128</div>
+    <div class="update-mile">Mile: 2030.6</div>
+    <div class="update-text"> 
+    A beautiful day in the Mt. Jefferson Wilderness. Started a little smoky this morning but the winds shifted and the skies cleared up for some great photos of all the peaks and forests I hiked around and through.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 23, 2026 • Day 127</div>
+    <div class="update-mile">Mile: 2006.7</div>
+    <div class="update-text"> 
+    I got an early ride out of town from one of the hotel staff and was back on trail before 8a. Rough hiking on lava flows for the first five miles, but it wasn’t as bad as expected. Really nice day with cool temps and a breeze. 
+    </div>
+  </div>
+
   <div class="update-card">
     <div class="update-date">Aug 21, 2026 • Day 125</div>
     <div class="update-mile">Mile: 1985.3</div>
