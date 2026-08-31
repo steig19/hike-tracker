@@ -10,6 +10,22 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 30, 2026 • Day 134</div>
+    <div class="update-mile">Mile: 2147.9</div>
+    <div class="update-text"> 
+     A perfect, last full-day hike for this journey. Rugged, scenic, challenging, and fun. I’m so glad I opted for the Eagle Creek Trail alternate. The photos help explain why. Tomorrow concludes my completion of the PCT through Oregon.
+    </div>
+  </div>
+
+  <div class="update-card">
+    <div class="update-date">Aug 29, 2026 • Day 133</div>
+    <div class="update-mile">Mile: 2120.5</div>
+    <div class="update-text"> 
+    It was a windy night up on Mt. Hood. Morning started cold with a thick fog rolling in which turned into a steady drizzle. I wore all the warm and rainy gear I had so it was just a matter of hiking through wet bushes on soggy trail. It took until day 134 to deliver a legitimate rainy day. I’ve been so lucky and tomorrow’s weather looks pretty good for the last full day on the trail.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 28, 2026 • Day 132</div>
     <div class="update-mile">Mile: 2100.0</div>
     <div class="update-text"> 
