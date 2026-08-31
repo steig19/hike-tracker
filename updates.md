@@ -11,7 +11,7 @@ nav: updates
   
   <div class="update-card">
     <div class="update-date">Aug 28, 2026 • Day 132</div>
-    <div class="update-mile">Mile: 2100.1</div>
+    <div class="update-mile">Mile: 2100.0</div>
     <div class="update-text"> 
     Another early rise for a busy resupply day. After a 15 mile hike to Timberline Lodge I took the first shuttle down to Government Camp for pastries and groceries. Great, big donuts at the Huckleberry Inn, by the way. Rode back up to the lodge for an early pizza and beer dinner and device charging before setting up the tent nearby on the PCT.
     </div>
