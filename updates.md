@@ -10,6 +10,14 @@ nav: updates
   <div class="update-mile">&emsp;Updates may not be posted daily.</div>
   
   <div class="update-card">
+    <div class="update-date">Aug 31, 2026 • Day 135</div>
+    <div class="update-mile">Mile: 2150.2</div>
+    <div class="update-text"> 
+     The end. I’ve stopped this hike with more miles left to do, but in no way feel that it was incomplete. In fact, I have experienced an amazing trail, and it’s waiting for me if I should decide to come back for it.
+    </div>
+  </div>
+
+  <div class="update-card">
     <div class="update-date">Aug 30, 2026 • Day 134</div>
     <div class="update-mile">Mile: 2147.9</div>
     <div class="update-text"> 
