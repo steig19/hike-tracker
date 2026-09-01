@@ -13,7 +13,7 @@ nav: updates
     <div class="update-date">Aug 31, 2026 • Day 135</div>
     <div class="update-mile">Mile: 2150.2</div>
     <div class="update-text"> 
-     The end. I’ve stopped this hike with more miles left to do, but in no way feel that it was incomplete. In fact, I have experienced an amazing trail, and it’s waiting for me if I should decide to come back for it.
+     The end. I’ve stopped this hike with more miles left to do, but in no way feel that it was incomplete. In fact, I have experienced an amazing trail, and it’s waiting for me should I decide to come back for it.
     </div>
   </div>
 
